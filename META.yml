@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Sort-Key-DateTime
-version:            0.06
+version:            0.07
 abstract:           Perl extension for sorting objects by some DateTime key
 author:
     - Salvador Fandino <sfandino@yahoo.com>
